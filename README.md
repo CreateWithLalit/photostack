@@ -4,7 +4,8 @@
 A responsive, high-performance Photo Gallery Web App built for the Celebrare frontend internship evaluation.
 
 ## 🚀 Live Demo
-[Provide your Vercel/Netlify link here if applicable]
+
+photo-stack-liard.vercel.app
 
 ## 🛠️ Tech Stack
 - **React + Vite** (Core Framework)
