@@ -5,7 +5,7 @@ A responsive, high-performance Photo Gallery Web App built for the Celebrare fro
 
 ## 🚀 Live Demo
 
-photo-stack-liard.vercel.app
+[photo-stack-liard.vercel.app]
 
 ## 🛠️ Tech Stack
 - **React + Vite** (Core Framework)
