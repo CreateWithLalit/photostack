@@ -3,9 +3,9 @@
 
 A responsive, high-performance Photo Gallery Web App built for the Celebrare frontend internship evaluation.
 
-## 🚀 Live Demo
+## Live Demo
 
-[photo-stack-liard.vercel.app]
+[ photo-stack-liard.vercel.app ]
 
 ## 🛠️ Tech Stack
 - **React + Vite** (Core Framework)
@@ -13,7 +13,7 @@ A responsive, high-performance Photo Gallery Web App built for the Celebrare fro
 - **Lucide React** (Icons)
 - **Picsum API** (Data Source)
 
-## ✨ Core Features
+## Core Features
 - **Fetch 30 Photos**: Automatic loading from Picsum API.
 - **Real-time Filter**: Instant search by author name using `useMemo`.
 - **Favourite System**: Add/Remove photos from collection using `useReducer`.
@@ -21,7 +21,7 @@ A responsive, high-performance Photo Gallery Web App built for the Celebrare fro
 - **Responsive Grid**: Optimised layout for Desktop (4 cols), Tablet (2 cols), and Mobile (1 col).
 - **Performance**: Optimized with React `useCallback` and `useMemo` hooks.
 
-## 📦 Installation & Run
+## Installation & Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/CreateWithLalit/PhotoStack.git
