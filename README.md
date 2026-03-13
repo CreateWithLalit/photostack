@@ -42,4 +42,4 @@ A responsive, high-performance Photo Gallery Web App built for the Celebrare fro
 - [x] Responsive Design
 
 ---
-Built by **Lalit** for Celebrare.
+
