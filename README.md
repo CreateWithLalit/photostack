@@ -42,5 +42,5 @@ A responsive, high-performance Photo Gallery Web App built for the Celebrare fro
 - [x] Functional components only
 - [x] Responsive Design
 
----
+----
 
